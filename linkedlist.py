@@ -108,6 +108,7 @@ print(my_list.get(1))
 
 my_list.erase(3)
 
+
 my_list.display()
 my_list.reverse()
 my_list.display()
